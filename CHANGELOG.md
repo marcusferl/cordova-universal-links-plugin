@@ -1,5 +1,12 @@
 # Change Log
 
+## 1.2.2 (20.05.2026)
+
+**Bug fixes:**
+
+ -Tagged Plist version to a fix version (3.1.0) for Cordova 12
+
+
 ## 1.2.1 (2016-10-23)
 
 **Bug fixes:**
